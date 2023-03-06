@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 😅👋🏻, I'm Khalid Samim</h1>
-<h3 align="center">A dedicated and motivated student of computer engineering, I'm currently pursuing a degree in the field in Turkey.</h3>
+<p align="center">A dedicated and motivated student of computer engineering, I'm currently pursuing a degree in the field in Turkey.</p>
 <p align="center">I'm constantly seeking out new challenges and opportunities to expand my knowledge and skills,</p>
 <p align="center">With a passion for technology and a strong desire to make a difference in the world.</p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
