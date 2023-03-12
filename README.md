@@ -1,10 +1,12 @@
+
+
 <h1 align="center">Hello there 😅👋🏻, I'm Khalid Samim</h1>
 <p align="center">A dedicated and motivated student of computer engineering, I'm currently pursuing a degree in the field in Turkey.</p>
 <p align="center">I'm constantly seeking out new challenges and opportunities to expand my knowledge and skills,</p>
 <p align="center">With a passion for technology and a strong desire to make a difference in the world.</p>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
+<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif](https://giphy.com/gifs/drummachinefunk-create-develop-developing-ndIq5ohg1pyfqyVOII)"
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?](https://giphy.com/gifs/drummachinefunk-create-develop-developing-ndIq5ohg1pyfqyVOII)username=itkhld1&label=Profile%20views&color=0e75b6&style=flat" alt="itkhld1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itkhld1&label=Profile%20views&color=0e75b6&style=flat" alt="itkhld1" /> </p>
 
 - 📫 How to reach me **khalidsamim321@gmail.com**
 
