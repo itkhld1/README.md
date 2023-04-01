@@ -1,22 +1,59 @@
+<div align="center">
+  <img height="150" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://instagram.com/itkhld" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=itkhld&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="khalidsamim321@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://telegram.com/itkhld" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="https://whatsapp.com/00905558791740" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=00905558791740&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=itkhld1&label=Profile%20views&color=0e75b6&style=flat" alt="itkhld1" /> </p>
+</div>
+
+###
+
 <h1 align="center">Hello there 😅👋🏻, I'm Khalid Samim</h1>
-<p align="center">A dedicated and motivated student of Computer Engineering, I'm currently pursuing a degree in the field in Turkey.</p>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itkhld1&label=Profile%20views&color=0e75b6&style=flat" alt="itkhld1" /> </p>
+###
 
-- 📫 How to reach me **khalidsamim321@gmail.com**
+<p align="center">A dedicated and motivated student of Computer Engineering.</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/itkhld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@itkhld" height="30" width="40" /></a>
+###
 
-</p>
+<h3 align="center">🛠 Language and tools</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itkhld1&show_icons=true&locale=en&layout=compact" alt="itkhld1" /></p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="27" width="39" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="27" width="39" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="27" width="39" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="27" width="39" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="27" width="39" alt="illustrator logo"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itkhld1&show_icons=true&locale=en" alt="itkhld1" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itkhld1&" alt="itkhld1" /></p>
+<h3 align="center">My Stats 🔥</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=itkhld1&locale=en&mode=daily&theme=swift&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
