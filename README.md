@@ -1,51 +1,26 @@
-<h2 align="center">Hello there 😅👋🏻, I'm Khalid Samim</h2>
 
-###
 
-<p align="center">A dedicated and motivated student of Computer Engineering.</p>
+<h1 align="center">Hello there 😅👋🏻, I'm Khalid Samim</h1>
+<p align="center">A dedicated and motivated student of Computer Engineering, I'm currently pursuing a degree in the field in Turkey.</p>
+<p align="center">I'm constantly seeking out new challenges and opportunities to expand my knowledge and skills,</p>
+<p align="center">with a passion for technology and a strong desire to make a difference in the world.</p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itkhld1&label=Profile%20views&color=0e75b6&style=flat" alt="itkhld1" /> </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itkhld1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&custom_title=Status " height="110" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=itkhld1&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itkhld1&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=rose_pine&hide_border=true" height="110" alt="languages graph"  />
-</div>
+- 📫 How to reach me **khalidsamim321@gmail.com**
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/itkhld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@itkhld" height="30" width="40" /></a>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" width="42" alt="apple logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" width="42" alt="illustrator logo"  />
-</div>
+</p>
 
-###
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<br clear="both">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itkhld1&show_icons=true&locale=en&layout=compact" alt="itkhld1" /></p>
 
-<div align="center">
-  <a href="https://instagram.com/itkhld" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=itkhld&color=red&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
-  <a href="khalidsamim321@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=skyblue&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itkhld1&show_icons=true&locale=en" alt="itkhld1" /></p>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/itkhld1/itkhld1/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/itkhld1/count.svg?"  />
-</div>
-
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itkhld1&" alt="itkhld1" /></p>
