@@ -30,3 +30,6 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/itkhld1/itkhld1/output/snake.svg" alt="Snake animation" />
+
+###
