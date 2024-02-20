@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Khaled+Samim+😅👋🏻;Welcome+to+my+github+profile.)](https://git.io/typing-svg)
-![snake animation](https://github.com/<itkhld1>/<itkhl1>/blob/output/github-contribution-grid-snake2.svg)
 
 <div align="center">
   <img height="300" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"  />
