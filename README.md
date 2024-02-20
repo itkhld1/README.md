@@ -30,7 +30,3 @@
 </div>
 
 ###
-
-<div align="center">
-<img src="https://github.com/<itkhl1>/<itkhld1>/blob/output/github-contribution-grid-snake2.svg" alt="Snake animation" />
-</div>
