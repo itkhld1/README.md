@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Khaled+Samim+😅👋🏻;Welcome+to+my+github+profile.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=HI+THERE+😅👋🏻;I+am+Khaled+Samim+;A+motivated+student+of+CE...;Welcome+to+my+github+profile.)](https://git.io/typing-svg)
 
 <div align="center">
   <img height="300" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"  />
@@ -7,13 +7,11 @@
 ###
 
 <div align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=itkhld1&label=Profile%20views&color=0e75b6&style=flat" alt="itkhld1" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=itkhld1&color=brightgreen" alt="watching_count" />
 </div>
 
 ###
 
-<h1 align="center">Hello there 😅👋🏻, I'm Khalid Samim</h1>
-
-###
 
 <p align="center">A dedicated and motivated student of Computer Engineering.</p>
 
