@@ -32,6 +32,5 @@
 ###
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/itkhld1/itkhld1/output/snake.svg" alt="Snake animation" />
-<img src="https://www.google.com/search?q=githubsnake.gif&tbm=isch&ved=2ahUKEwjAuLKAjrqEAxUyZaQEHV1gA_kQ2-cCegQIABAA&oq=githubsnake.gif&gs_lp=EgNpbWciD2dpdGh1YnNuYWtlLmdpZkiBMVD5Flj_IHAAeACQAQCYAWugAbgFqgEDNC4zuAEDyAEA-AEBigILZ3dzLXdpei1pbWfCAgQQIxgnwgIGEAAYBxgewgIIEAAYCBgHGB6IBgE&sclient=img&ei=jrTUZcC5A7LKkdUP3cCNyA8&bih=646&biw=1280&client=safari#imgrc=KwdH1OqJEACXWM"
+<img src="https://github.com/<itkhl1>/<itkhld1>/blob/output/github-contribution-grid-snake2.svg" alt="Snake animation" />
 </div>
