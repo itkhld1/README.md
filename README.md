@@ -7,7 +7,6 @@
 ###
 
 <div align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=itkhld1&label=Profile%20views&color=0e75b6&style=flat" alt="itkhld1" /> </p>
-  <img src="https://komarev.com/ghpvc/?username=itkhld1&color=brightgreen" alt="watching_count" />
 </div>
 
 ###
