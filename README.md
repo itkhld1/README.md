@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=HI+THERE+😅👋🏻;I+am+Khaled+Samim+;A+motivated+student+of+CE...;Welcome+to+my+github+profile.)](https://git.io/typing-svg)
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=HI+THERE+:);I+am+Khaled+Samim+;A+motivated+student+of+CE...;Welcome+to+my+github+profile." alt="Headline" />
+    </div>
 
 <div align="center">
   <img height="350" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"  />
@@ -29,3 +31,7 @@
 </div>
 
 ###
+
+<p align="center"">
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</p>
