@@ -16,6 +16,7 @@
 
 
 <p align="center">A dedicated and motivated student of Computer Engineering.</p>
+<p align="center">I'm currently focusing on learning the Swift programming language.</p>
 
 ###
 
