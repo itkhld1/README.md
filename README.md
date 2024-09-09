@@ -1,6 +1,8 @@
 <div style="text-align: center;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=dfe9fb" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=e9f5f8" />
 </div>
+
+###
 
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=20&center=true&vCenter=true&width=600&height=50&lines=HI+THERE+:);I+am+Khaled+Samim+;A+motivated+student+of+CE...;Welcome+to+my+github+profile." alt="Headline" />
@@ -39,3 +41,9 @@
 <p align="center"">
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
+
+###
+
+<div style="text-align: center;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=e9f5f8&height=120&section=footer"/>
+</div>
